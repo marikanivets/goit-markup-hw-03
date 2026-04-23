@@ -278,7 +278,7 @@ img {
 
 }
 
-.container-team {}
+.container-team {
 
 .box-text {
     font-weight: 400;
@@ -371,9 +371,11 @@ list-style: none;
     text-align: left;
     color: #434455;
 
+
+}
 }
 
-.container-footer {}
+.container-footer {
 
 .footer {
     background-color: #2E2F42;
@@ -405,4 +407,5 @@ list-style: none;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
+}
 }
